@@ -61,7 +61,7 @@ deploy_branch:
         source-dir: $S3_SOURCE
 
 check_links:
-  box: mesosphere/linkchecker:latest
+  box: mesosphere/linkchecker
   steps:
     - script:
         name: check links
