@@ -59,3 +59,9 @@ deploy_branch:
         key-secret: $AWS_SECRET_ACCESS_KEY
         bucket-url: $S3_BUCKET/docs/
         source-dir: $S3_SOURCE
+
+check_links:
+  steps:
+    - script:
+        name: check links
+        code: _scripts/link-checker.sh
