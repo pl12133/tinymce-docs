@@ -1,5 +1,4 @@
 box: jointiny/tiny-cloud-docs-build:latest
-docker: true
 no-response-timeout: 30
 
 build:
@@ -62,7 +61,8 @@ deploy_branch:
         source-dir: $S3_SOURCE
 
 check_links:
+  box: mesosphere/linkchecker:latest
   steps:
     - script:
         name: check links
-        code: docker run  -it --rm mesosphere/linkchecker linkchecker -r 1 http://staging.tiny.cloud/docs/
+        code: linkchecker -r 1 http://staging.tiny.cloud/docs/
