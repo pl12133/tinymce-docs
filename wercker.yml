@@ -1,4 +1,5 @@
 box: jointiny/tiny-cloud-docs-build:latest
+docker: true
 no-response-timeout: 30
 
 build:
@@ -64,4 +65,4 @@ check_links:
   steps:
     - script:
         name: check links
-        code: _scripts/link-checker.sh
+        code: docker run  -it --rm mesosphere/linkchecker linkchecker -r 1 http://staging.tiny.cloud/docs/
