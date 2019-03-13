@@ -2,7 +2,6 @@
 layout: default
 title: Mentions
 description: Mentions brings social sharing to TinyMCE.
-keywords: atmention mention
 ---
 
 It is now possible for users to send notifications to other users using the Mentions plugin through an `@username` in the document. Using `@username` for notifications are incredibly commonplace in social software such as Twitter and Facebook along with social enterprise applications such as IBM’s Connections suite.

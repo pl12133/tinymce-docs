@@ -2,7 +2,6 @@
 layout: default
 title: Check spelling in TinyMCE
 title_nav: Spell checking
-keywords: spell checker spelling browser_spellcheck gecko_spellcheck
 ---
 TinyMCE provides several options to bring spell checking capabilities to your users.
 

@@ -4,7 +4,6 @@ title: Handle asynchronous image uploads
 title_nav: Asynchronous image uploading
 description_short: How to manage asynchronous image uploads.
 description: How to manage asynchronous image uploads with jQuery, CORS.
-keywords: asynchronous async paste_data_images image cors
 ---
 
 TinyMCE uploads edited images with the image uploader. This complements TinyMCE's image editing functionality. Local images added through other means can also be uploaded using this functionality. For example, _drag and drop_ using the [paste_data_images]({{ site.baseurl }}/plugins/paste/#paste_data_images) configuration property or using the **PowerPaste** plugin.

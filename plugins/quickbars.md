@@ -3,7 +3,6 @@ layout: default
 title: Quick Toolbar plugin
 title_nav: Quick Toolbar
 description: User interface controls to create content faster.
-keywords: plugin inlite quickbar
 ---
 
 The Quick Toolbar plugin (`quickbars`) enables new user interface components to help users create content faster. It can be used to create an experience similar to Medium, Quip, and other modern editing tools.

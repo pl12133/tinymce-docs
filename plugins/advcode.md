@@ -3,7 +3,6 @@ layout: default
 title: Advanced Code Editor plugin
 title_nav: Advanced Code Editor
 description: How to setup TinyMCE's Advanced Code Editor plugin.
-keywords: code advcode codemirror
 controls: toolbar button, menu item
 ---
 

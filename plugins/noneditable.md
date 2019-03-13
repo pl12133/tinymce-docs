@@ -3,7 +3,6 @@ layout: default
 title: Noneditable plugin
 title_nav: Noneditable
 description: Prevent users from changing content within elements. Ideal for templates.
-keywords: noneditable contenteditable editable mceNonEditable noneditable_editable_class noneditable_noneditable_class noneditable_regexp
 ---
 
 > The `noneditable` plugin has been rewritten from scratch to use stability improvements to the TinyMCE core. It is now more reliable and has fewer browser-specific quirks.

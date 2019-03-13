@@ -2,7 +2,6 @@
 layout: default
 title: Configure Enhanced Media Embed Server
 description: Instructions for getting the Enhanced Media Embed server configured.
-keywords: enterprise pricing video youtube vimeo mp3 mp4 mov movie clip film link linkchecking linkchecker mediaembed media
 ---
 
 Once you've got the [server-side component]({{ site.baseurl }}/enterprise/server/) installed, additional configuration to your `application.conf` file is required. (Don't forget to restart the Java application server after updating the configuration.)

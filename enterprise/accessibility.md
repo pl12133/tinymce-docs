@@ -2,7 +2,6 @@
 layout: default
 title: Accessibility checking
 description: WCAG & Section 508 compliant accessibility checking.
-keywords: a11y accessibility
 ---
 
 For most developers, accessibility has become critical to the usability of their solutions. TinyMCE’s [accessibility checker]({{ site.baseurl }}/plugins/a11ychecker/) (based on technology built by [Tiny](http://www.tiny.cloud)) makes checking for common accessibility issues incredibly easy for content creators by using an interface that steps them through each error, and in most cases also recommends a solution.

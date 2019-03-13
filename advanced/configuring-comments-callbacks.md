@@ -3,7 +3,6 @@ layout: default
 title: Configuring callbacks for Comments 2.0
 title_nav: Configuring callbacks for Comments 2.0
 description: Instructions for configuring callbacks for Comments 2.0
-keywords: comments commenting tinycomments callback
 ---
 
 ## Introduction

@@ -3,7 +3,6 @@ layout: default
 title: Mentions plugin
 title_nav: Mentions
 description: Enables @mention functionality.
-keywords: mentions atmentions
 ---
 
 The mentions plugin will present a list of users when a user types the "@" symbol followed by the beginnings of a username after it. It will then query your server using the `mentions_fetch` callback.

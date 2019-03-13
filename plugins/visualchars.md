@@ -3,7 +3,6 @@ layout: default
 title: Visual Characters plugin
 title_nav: Visual Characters
 description: See invisible characters like non-breaking spaces.
-keywords: visualchars
 controls: toolbar button, menu item
 ---
 

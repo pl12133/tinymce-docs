@@ -4,7 +4,6 @@ title: Basic setup
 title_nav: Basic setup
 description_short: The three most important configuration settings, with examples.
 description: TinyMCE provides a wide range of configuration options that enable you to integrate it tightly with your application.
-keywords: selector plugin toolbar configuration configure
 ---
 
 This introduction to TinyMCE configuration section details important options used in traditional form-based layouts, useful information for creating streamlined user experiences and examples of using TinyMCE as an inline editor.

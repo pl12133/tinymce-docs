@@ -3,7 +3,6 @@ layout: default
 title: React integration
 title_nav: React
 description: React TinyMCE component.
-keywords: integration integrate react reactjs create-react-app
 ---
 
 Integration with React is easily done with our [@tinymce/tinymce-react](https://github.com/tinymce/tinymce-react) package. This how-to shows you how to setup a project using [react](https://facebook.github.io/react/), [tinymce](/docs/demo/basic-example/) and [Create React App](https://github.com/facebookincubator/create-react-app).

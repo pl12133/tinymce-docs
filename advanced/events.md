@@ -4,7 +4,6 @@ title: Editor events
 title_nav: Editor events
 description_short: List of common editor events
 description: List of common editor events
-keywords: Click DblClick MouseDown MouseUp MouseMove MouseOver MouseOut MouseEnter MouseLeave KeyDown KeyPress KeyUp ContextMenu Paste Init Focus Blur BeforeSetContent SetContent GetContent PreProcess PostProcess NodeChange Undo Redo Change Dirty Remove ExecCommand PastePreProcess PastePostProcess
 ---
 
 ## Editor Events

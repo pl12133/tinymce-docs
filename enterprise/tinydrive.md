@@ -3,7 +3,6 @@ layout: default
 title: Cloud-based file management
 title_nav: Cloud-based file management
 description: Tiny Drive - a premium plugin to manage files & images.
-keywords: tinydrive .net php relative_urls
 ---
 
 Tiny Drive is a premium TinyMCE plugin for cloud-based asset management and storage solution. Tiny Drive is a solution for creating rich text by attaching and embedding images, videos, and other files in your document.

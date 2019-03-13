@@ -3,7 +3,6 @@ layout: default
 title: Customizing the editor UI
 title_nav: Customizing the UI
 description: Learn how to change the appearance of TinyMCE.
-keywords: themes skins statusbar
 ---
 
 This section is about customizing TinyMCE's user interface with skins, toolbar buttons, and manipulating the status bar.

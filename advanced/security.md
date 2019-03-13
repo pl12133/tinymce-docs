@@ -4,7 +4,6 @@ title: Security
 title_nav: Security
 description_short: A statement on security.
 description: A statement on security.
-keywords: security xss scripting vulnerability hack hacker
 ---
 
 ## Q: Is TinyMCE protected against XSS vulnerabilities?

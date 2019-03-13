@@ -3,7 +3,6 @@ layout: default
 title: Full Screen plugin
 title_nav: Full Screen
 description: Zoom TinyMCE up to the whole screen.
-keywords: fullscreen view
 controls: toolbar button, menu item
 ---
 

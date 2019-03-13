@@ -3,7 +3,6 @@ layout: default
 title: Bootstrap integration
 title_nav: Bootstrap
 description: How to override the built-in block on `focusin` in Bootstrap dialogs when using TinyMCE.
-keywords: integration integrate bootstrap
 ---
 
 ## Using TinyMCE in a Bootstrap dialog

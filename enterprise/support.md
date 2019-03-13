@@ -3,7 +3,6 @@ layout: default
 title: Access professional support
 title: Professional support
 description: Find how to contact Tiny support.
-keywords: support tiny enterprise client services
 ---
 
 ## Overview

@@ -3,7 +3,6 @@ layout: default
 title: Accessibility Checker plugin
 title_nav: Accessibility Checker
 description: Checks the contents of the editor for WCAG & Section 508 accessibility problems.
-keywords: a11y accessibility WCAG
 ---
 
 The `a11ychecker` plugin enables you to check the HTML for various WCAG & Section 508 accessibility problems. It has an auto repair feature that lets a user fix identified problems.

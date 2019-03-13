@@ -3,7 +3,6 @@ layout: default
 title: TinyMCE Mobile
 title_nav: Mobile
 description: A new mobile-first user experience for rich text editing.
-keywords: mobile tablet
 ---
 
 Why make TinyMCE mobile friendly? Simple. We live in a "mobile-first" world and expect a seamless experience between desktop and mobile. Our goal is to help you achieve this with as little effort as possible.

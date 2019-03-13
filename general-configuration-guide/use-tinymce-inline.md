@@ -4,7 +4,6 @@ title: Setup inline editing mode
 title_nav: Inline editing mode
 description_short: Learn about forms-based editing v. inline editing.
 description: Understand the difference between traditional forms-based editing and advanced inline editing.
-keywords: form inline edit stylesheet
 ---
 
 TinyMCE has three main integration modes: a _classic_ form-based mode, an _inline_ editing mode, and a distraction-free mode.

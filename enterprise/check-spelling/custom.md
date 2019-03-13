@@ -2,7 +2,6 @@
 layout: default
 title: Adding custom dictionaries
 description: Custom dictionaries can be added to Spell Checker Pro
-keywords: enterprise tinymcespellchecker spell check checker pro
 ---
 
 ### Configuring the custom dictionary feature

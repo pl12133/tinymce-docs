@@ -4,7 +4,6 @@ title: MoxieManager
 title_nav: MoxieManager
 description_short: MoxieManager
 description:  MoxieManager. A premium plugin to manage files & images.
-keywords: moxiemanager .net php relative_urls
 ---
 
 ## Live example

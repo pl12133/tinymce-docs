@@ -3,7 +3,6 @@ layout: default
 title: Basic local file picker
 title_nav: Basic local file picker
 description: This example shows how to add a local file picker to the Image dialog.
-keywords: example demo image local-file-picker file_picker_callback
 ---
 
 {% include pardot-px-moxiemanager.html %}

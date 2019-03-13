@@ -3,7 +3,6 @@ layout: default
 title: Checking links as-you-type
 title_nav: Hyperlink checking
 description: Check for valid hyperlinks inside the editor
-keywords: enterprise pricing video youtube vimeo mp3 mp4 mov movie clip film link linkchecking linkchecker mediaembed media
 ---
 
 The [Link Checker plugin]({{ site.baseurl }}/plugins/linkchecker/) provides a link checking service right within the TinyMCE editor.

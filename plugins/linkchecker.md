@@ -3,7 +3,6 @@ layout: default
 title: Link Checker plugin
 title_nav: Link Checker
 description: Validate links, as you type.
-keywords: url urls link linkchecker_service_url linkchecker_content_css
 ---
 
 The `linkchecker` does what it says &ndash; validates URLs, as you type them. URLs considered invalid will be highlighted with red and will have a dedicated context menu with options to either edit the link, try and open it in a separate tab, remove the link, or ignore it.

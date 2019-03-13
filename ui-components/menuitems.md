@@ -3,7 +3,6 @@ layout: default
 title: Custom menu items
 title_nav: Custom menu items
 description: This section demonstrates different types of menu items.
-keywords: menu menuitem menuitems
 ---
 
 ## Use Cases

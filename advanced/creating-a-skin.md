@@ -4,7 +4,6 @@ title: Create a skin for TinyMCE
 title_nav: Create a skin
 description_short: Introducing skin creation.
 description: Introducing skin creation, less and icon modification.
-keywords: create creator skin icon
 ---
 
 This section provides information on how to create a new skin to alter the appearance of TinyMCE.

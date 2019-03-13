@@ -3,7 +3,6 @@ layout: default
 title: jQuery integration
 title_nav: jQuery
 description: Add custom logic to render TinyMCE inside jQuery dialogs.
-keywords: integration integrate jquery javascript
 ---
 
 ## TinyMCE in a jQuery UI Dialog

@@ -3,7 +3,6 @@ layout: default
 title: Get TinyMCE bugs fixed
 title_nav: Get bugs fixed
 description: TinyMCE Enterprise customers get priority fixes of bugs.
-keywords: enterprise bug bugs patch patches
 ---
 
 TinyMCE is an open source project that relies on the community, to report and fix bugs. You can do this through our [Github project](https://github.com/tinymce/tinymce).

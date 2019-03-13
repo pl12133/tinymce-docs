@@ -4,7 +4,6 @@ title: Work with plugins to extend TinyMCE
 title_nav: Using plugins to extend TinyMCE
 description_short: Learn about TinyMCE's plugin functionality and discover our Top 10 plugins.
 description: TinyMCE is an incredibly powerful, flexible and customizable rich text editor. This section demonstrates the power of plugins with several working examples.
-keywords: plugin
 ---
 
 For most developers, the real power of TinyMCE's functionality is found in its plugins. [Plugins]({{ site.baseurl }}/plugins/) either extend default editor functionality or add new functionality. For example, the [Advanced List]({{ site.baseurl }}/plugins/advlist/) plugin adds extra options to the toolbar's existing list controls, while the [Code]({{ site.baseurl }}/plugins/code/) plugin adds entirely new functionality.

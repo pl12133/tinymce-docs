@@ -3,7 +3,6 @@ layout: default
 title: Embed rich media
 title_nav: Media embedding
 description: Add rich media previews inside TinyMCE.
-keywords: enterprise pricing video youtube vimeo mp3 mp4 mov movie clip film link linkchecking linkchecker mediaembed media
 ---
 
 The [Enhanced Media Embed plugin]({{ site.baseurl }}/plugins/mediaembed/) makes it easy to add an enhanced content creation experience in your website or app with enriched media previews from the most popular web sources. Facebook, YouTube, Flickr, NY Times, Vimeo, Hulu, Tumblr, CodePen, SlideShare, TechCrunch, WordPress, Twitch, Spotify … and many more!

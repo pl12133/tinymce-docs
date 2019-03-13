@@ -4,7 +4,6 @@ title: Content delivery network (CDN) details
 title_nav: CDN details
 description_short: Details on CDN usage and versioning.
 description: Details on CDN usage and versioning.
-keywords: CDN versioning
 ---
 
 The CDN has been superseded by the enhanced functionality of TinyMCE Cloud.

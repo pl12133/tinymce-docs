@@ -3,7 +3,6 @@ layout: default
 title: Horizontal Rule plugin
 title_nav: Horizontal Rule
 description: Insert a horizontal line.
-keywords: hr insert
 controls: toolbar button, menu item
 ---
 

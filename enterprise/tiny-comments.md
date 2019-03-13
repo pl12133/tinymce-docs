@@ -3,7 +3,6 @@ layout: default
 title: Commenting &amp; collaboration
 title_nav: Commenting &amp; collaboration
 description: Comments 2.0 provides the ability to add comments to the content and collaborate with other users for content editing.
-keywords: enterprise pricing comment commenting
 ---
 
 TinyMCE editor now has a highly desirable functionality, [Comments 2.0]({{site.baseurl}}/demo/comments-2/).

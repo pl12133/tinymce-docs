@@ -4,7 +4,6 @@ title: Contribute to documentation
 title_nav: Contribute to documentation
 description_short: Contribute to TinyMCE's developer documentation.
 description: Contribute to TinyMCE's developer documentation.
-keywords: opensource oss contributors lgpl docs dox
 ---
 
 This page outlines how you can provide feedback and contribute to TinyMCE documentation.
@@ -82,7 +81,6 @@ title:             // The nav.yml references this so it must be included and it 
 title_nav:         // Descriptive title for the navigation bar, if omitted nav defaults to title field.
 description_short: // Short description for the grid layouts.
 description:       // Detailed description at page level for the header section under the title.
-keywords:          // Space-separated list of keywords in the content.
 ---
 ```
 

@@ -4,7 +4,6 @@ title: Quick start
 title_nav: Quick start
 description_short: Setup TinyMCE 5.0 in less than 5 minutes.
 description: Get an instance of TinyMCE up and running in less than 5 minutes.
-keywords: tinymce script textarea
 ---
 
 TinyMCE 5.0 is a powerful and flexible rich text editor that can be embedded in the user's web application. 

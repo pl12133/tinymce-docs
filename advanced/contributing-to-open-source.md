@@ -4,7 +4,6 @@ title: Contribute to TinyMCE development
 title_nav: Contribute to TinyMCE
 description_short: Contribute to the open source project.
 description: Contribute to the open source project. Help build the core, plugins or even write the documentation.
-keywords: opensource oss contributors lgpl
 ---
 
 TinyMCE is an open source software project. We encourage developers to contribute patches and code to include in TinyMCE. However, there are a few rules and limitations:

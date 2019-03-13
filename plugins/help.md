@@ -3,7 +3,6 @@ layout: default
 title: Help plugin
 title_nav: Help
 description: Shows the help dialog.
-keywords: help
 controls: toolbar button, menu item
 ---
 

@@ -4,7 +4,6 @@ title: Tiny Drive
 title_nav: Tiny Drive
 description_short: Tiny Drive
 description: Tiny Drive. A premium plugin to manage files & images.
-keywords: tinydrive .net php relative_urls
 ---
 
 ## Live example

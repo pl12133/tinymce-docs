@@ -3,7 +3,6 @@ layout: default
 title: TinyMCE distraction-free editing mode
 title_nav: Distraction-free editing mode
 description: Theme that renders a lightweight UI for inline editing.
-keywords: theme inlite distraction-free
 ---
 
 The **Distraction-free** theme renders the editor in lightweight inline mode. This mode provides options to quickly insert links, images, and tables into the content. For a sample view of this mode, see the [Distraction-free editor]({{ site.baseurl }}/demo/editor-dfree/) example page.

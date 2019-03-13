@@ -4,7 +4,6 @@ title: Create custom dialogs
 title_nav: Create custom dialogs
 description_short: Learn how to make custom dialogs.
 description: Learn how to make custom dialogs with WindowManager.
-keywords: custom dialog dialogs cdn windowmanager
 ---
 
 ## Dialogs as HTML pages

@@ -2,7 +2,6 @@
 layout: default
 title: Changelog
 description: The history of TinyMCE releases.
-keywords: changelog
 class: changelog
 ---
 

@@ -3,7 +3,6 @@ layout: default
 title: Comments 2.0 Demo
 title_nav: Comments 2.0
 description: Tiny Comments provides the ability to add comments to the content and collaborate with other users for content editing.
-keywords: comments commenting tinycomments
 controls: toolbar button
 ---
 

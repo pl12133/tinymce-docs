@@ -3,14 +3,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ page.meta_description | or:page.description }}">
-    <meta name="keywords" content="{{ page.meta_keywords | or:site.default_meta_keywords }}">
-    <meta property="og:og:site_name" content="TinyMCE.com">
-    <meta property="og:title" content="TinyMCE | {{ page.meta_title | or:page.title }}">
+    <meta property="og:site_name" content="TinyMCE">
+    <meta property="og:title" content="{{ page.meta_title | or:page.title }} - v5 Docs | TinyMCE">
     <meta property="og:type" content="website">
     <meta property="og:description" content="{{ page.meta_description | or:page.description }}">
     <meta property="og:image" content="https://www.tinymce.com/images/fb-share@2x.png">
 
-    <title>TinyMCE | {{ page.meta_title | or:page.title }}</title>
+    <title>{{ page.meta_title | or:page.title }} - v5 Docs | TinyMCE</title>
 
     <link href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" rel="stylesheet"/>
     <link href="{{ site.shared_baseurl }}/css/common.min.css" rel="stylesheet">

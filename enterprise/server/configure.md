@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Configure server-side components
-keywords: enterprise tinymcespellchecker spell check checker pro pricing imagetools server configuration configure
 ---
 
 ## Creating a configuration file

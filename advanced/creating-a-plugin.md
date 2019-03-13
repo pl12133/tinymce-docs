@@ -4,7 +4,6 @@ title: Create a plugin for TinyMCE
 title_nav: Create a plugin
 description_short: Introducing plugin creation, with an example.
 description: A short introduction to creating plugins for TinyMCE along with an example plugin.
-keywords: plugin plugin.js plugin.min.js tinymce.js
 ---
 
 TinyMCE is designed to make creating plugins simple and to provide choice. Users can employ the [Yeoman generator]({{ site.baseurl }}/advanced/yeoman-generator/) or you can use the following tutorial that outlines the basic concepts of creating a plugin. Consult the API documentation and review the existing plugins that are shipped with the core editor for additional details.

@@ -4,7 +4,6 @@ title: Create custom notifications
 title_nav: Create custom notifications
 description_short: Learn how to make custom notifications.
 description: Learn how to make custom dialogs with NotificationManager.
-keywords: custom notification notifications cdn notificationmanager
 ---
 
 TinyMCE can display customized notifications.

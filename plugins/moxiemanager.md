@@ -3,7 +3,6 @@ layout: default
 title: MoxieManager plugin
 title_nav: MoxieManager
 description: File and image management plugin and service
-keywords: amazon azure premium pro enterprise tiny relative_urls
 ---
 
 {% include pardot-px-moxiemanager.html %}

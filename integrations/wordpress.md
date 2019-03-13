@@ -2,7 +2,6 @@
 layout: default
 title: WordPress integration
 title_nav: WordPress
-keywords: integration integrate wordpress advanced
 ---
 
 

@@ -4,7 +4,6 @@ title: Custom sidebar
 title_nav: Custom sidebar
 description_short: Introducing sidebar panel creation. 
 description: A short introduction to creating sidebars.
-keywords: sidebar
 ---
 
 TinyMCE allows developers to create sidebars and add custom UI widgets inside a constrained and easily accessible area of the editor. The sidebar is designed to allow administrators and plugin developers to provide additional tools that can be accessed by TinyMCE users.

@@ -3,7 +3,6 @@ layout: default
 title: System requirements
 title_nav: System requirements
 description: Official TinyMCE browser support.
-keywords: browser compatibility explorer ie safari firefox chrome edge
 ---
 ## Mobile supported platforms
 

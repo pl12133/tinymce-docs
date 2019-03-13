@@ -3,7 +3,6 @@ layout: default
 title: Rails integration
 title_nav: Rails
 description: Seamlessly integrates TinyMCE into the Rails asset pipeline introduced in Rails 3.1.
-keywords: integration integrate angular angularjs
 ---
 
 ## Rails asset pipeline integration

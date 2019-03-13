@@ -3,7 +3,6 @@ layout: default
 title: Advanced source code editing
 title_nav: Advanced source code editing
 description: An IDE-like code editor for TinyMCE.
-keywords: code advcode codemirror
 controls: toolbar button, menu item
 ---
 

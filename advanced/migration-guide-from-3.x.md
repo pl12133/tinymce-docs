@@ -4,7 +4,6 @@ title: Migrate from version 3 of TinyMCE
 title_nav: Migrate from V3
 description_short: Everything you need to start migrating from 3.x to 4 and beyond.
 description: Everything you need to start migrating from 3.x to 4 and beyond.
-keywords: migrate migration 3x themes event handling new removed
 ---
 
 

@@ -3,7 +3,6 @@ layout: default
 title: Local upload
 title_nav: Local file upload
 description: This example demonstrates the local file upload feature.
-keywords: example demo image local-upload
 ---
 
 We've supported [local file picking]({{ site.baseurl }}/demo/file-picker) and [image uploading]({{ site.baseurl }}/general-configuration-guide/upload-images) for quite some time already. However making these features functional required some effort on the user's side, while not being immediately obvious, at the same time. Some effort is still required, but we decided to supplement the feature with an intuitive UI.

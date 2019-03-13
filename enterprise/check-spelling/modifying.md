@@ -2,7 +2,6 @@
 layout: default
 title: Modifying spell check dictionaries
 description: Spell Checker Pro dictionaries can be modified to include custom words.
-keywords: enterprise tinymcespellchecker spell check checker pro pricing
 ---
 
 **Note:** Updating the dictionaries packaged with the spellchecker is, in effect, forking the dictionary. Any future enhancements to our dictionaries (e.g. additional words added or errors fixed) could cause you to want to re-apply your updates to these future release dictionaries.

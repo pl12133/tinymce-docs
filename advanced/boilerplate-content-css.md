@@ -4,7 +4,6 @@ title: Boilerplate content CSS
 title_nav: Boilerplate content CSS
 description_short: Learn how to set up CSS for your site to integrate TinyMCE.
 description: Learn how to set up CSS for your site to integrate TinyMCE.
-keywords: css content_css
 ---
 
 There are advanced features in TinyMCE that require some CSS to be added to the page that displays the content produced by the editor. In general, to get as clean an output as possible from a rich text editor as well as to use some advanced features like captioned images, use CSS rather than inline styles to render correctly.

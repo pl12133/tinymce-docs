@@ -3,7 +3,6 @@ layout: default
 title: Table of Contents plugin
 title_nav: Table of Contents
 description: Insert a simple Table of Contents into TinyMCE editor
-keywords: toc toc_depth toc_class toc_header
 controls: toolbar button, menu item
 ---
 

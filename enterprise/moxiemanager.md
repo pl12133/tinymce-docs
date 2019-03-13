@@ -2,7 +2,6 @@
 layout: default
 title: Self-hosted file management
 description: MoxieManager is a premium plugin to manage files & images.
-keywords: moxiemanager .net php relative_urls
 ---
 
 ## File and Image Management Using Moxie Manager

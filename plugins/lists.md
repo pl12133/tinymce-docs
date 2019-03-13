@@ -3,7 +3,6 @@ layout: default
 title: Lists plugin
 title_nav: Lists
 description: Normalizes list behavior between browsers.
-keywords: list lists browser normalize
 ---
 
 The `lists` plugin allows you to add numbered and bulleted lists to TinyMCE. To enable advanced lists (e.g. alpha numbered lists, square bullets) you should also enable the [Advanced List](../advlist/) (`advlist`) plugin.

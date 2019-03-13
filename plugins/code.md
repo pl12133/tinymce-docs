@@ -3,7 +3,6 @@ layout: default
 title: Code plugin
 title_nav: Code
 description: Edit your content's HTML source.
-keywords: wysiwyg source html edit 
 controls: toolbar button, menu item
 ---
 

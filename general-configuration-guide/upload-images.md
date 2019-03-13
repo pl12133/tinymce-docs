@@ -2,7 +2,6 @@
 layout: default
 title: Uploading images and files
 title_nav: Upload images &amp; files
-keywords: uploader uploadImages image handler
 ---
 
 {% include pardot-px-moxiemanager.html %}
