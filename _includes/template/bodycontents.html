@@ -69,6 +69,93 @@
 <script src="{{ site.shared_baseurl }}/scripts/common.min.js"></script>
 <script src="{{ site.shared_baseurl }}/scripts/docs.min.js"></script>
 
+<script>
+  $("#side-nav-controller").on("click", function () {
+    $("aside > ul").toggle();
+    if ($("aside > ul").is(":visible")) {
+      $("#side-nav-controller").text('Collapse Menu');
+      hideAllButActive();
+    } else {
+      $("#side-nav-controller").text('Expand Menu');
+    }
+  });
+
+  var visible = [];
+  $(document).ready(function() {
+    visible = [];
+    $("aside > ul > li > ul").each(function(index) {
+      if ($(this).is(":visible")) {
+        visible.push(index);
+      }
+    });
+    if ($(document).width() < 1126) {
+      switchToMobile();
+    }
+  });
+
+  var sizeTest = window.matchMedia("(max-width: 1126px)");
+  sizeTest.addListener(function(size) {
+    if (size.matches) {
+      $("aside > ul > li > ul").each(function(index) {
+        if ($(this).is(":visible") && visible.indexOf(index) < 0) {
+          visible.push(index);
+        }
+      });
+      switchToMobile();
+    } else {
+      $("#side-nav-controller").hide();
+      $("aside > ul").show();
+      $("aside > ul > li > ul").each(function(index) {
+        if (visible.indexOf(index) > -1) {
+          $(this).show();
+        }
+      });
+    }
+  });
+
+  function switchToMobile() {
+    $("#side-nav-controller").show();
+    $("aside > ul").hide();
+    hideAllButActive();
+  }
+
+  function hideAllButActive() {
+    $("aside > ul > li").each(function(index) {
+      if (!$(this).hasClass("active")) {
+        $(this).children().eq(1).hide();
+      }
+    });
+  }
+</script>
+
+<style type="text/css">
+    #side-nav-controller {
+        font-size: 16px;
+        color: #1976d2;
+        padding: 13px 0;
+        cursor: pointer;
+        background: #FFFFFF;
+        border-bottom: 1px solid #dfdfdf;
+        font-weight: 600;
+        display: none;
+    }
+
+    @media screen and (max-width: 1126px) {
+        .main {
+            padding-top: 52px !important;
+        }
+        aside {
+            padding-top: 56px;
+        }
+    }
+
+    @media screen and (max-width: 850px) {
+        aside {
+            padding-top: 40px !important;
+        }
+    }
+</style>
+
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
 <script type="text/javascript">
     docsearch({
