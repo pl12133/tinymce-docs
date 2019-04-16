@@ -15,6 +15,8 @@ The sidebar API allows developers to add sidebars on editor instances in a simil
 
 This is the syntax for the addSidebar function: `editor.ui.registry.addSidebar(name:String, spec:Object)`
 
+To show the sidebar toggle control, include the `name` of your sidebar in the [`toolbar` option](https://www.tiny.cloud/docs/ui-components/toolbarbuttons/).
+
 ### Specification object
 
 #### `tooltip`
@@ -60,6 +62,7 @@ The `element():HTMLElement` function returns the root element of the sidebar pan
 ```js
 tinymce.init({
   ...
+  toolbar: 'mysidebar',
   setup: function (editor) {
     editor.ui.registry.addSidebar('mysidebar', {
       tooltip: 'My sidebar',
